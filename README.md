@@ -51,7 +51,7 @@
    9. [루미노](https://github.com/Onther-Tech/plasma-korea/blob/master/4_Related_Work.md#%EB%A3%A8%EB%AF%B8%EB%85%B8)
 5. [다중 오프체인 상태](https://github.com/Onther-Tech/plasma-korea/blob/master/5_Multiparty_Off-Chain_State.md)
    1. [위조증명](https://github.com/Onther-Tech/plasma-korea/blob/master/5_Multiparty_Off-Chain_State.md#%EC%9C%84%EC%A1%B0%EC%A6%9D%EB%AA%85)
-   2.[ 입금(deposit)](https://github.com/Onther-Tech/plasma-korea/blob/master/5_Multiparty_Off-Chain_State.md#%EC%9E%85%EA%B8%88deposit)
+   2. [입금(deposit)](https://github.com/Onther-Tech/plasma-korea/blob/master/5_Multiparty_Off-Chain_State.md#%EC%9E%85%EA%B8%88deposit)
    3. [거액 인출과 비트맵 방식의 상태](https://github.com/Onther-Tech/plasma-korea/blob/master/5_Multiparty_Off-Chain_State.md#%EA%B1%B0%EC%95%A1-%EC%9D%B8%EC%B6%9C%EA%B3%BC-%EB%B9%84%ED%8A%B8%EB%A7%B5-%EB%B0%A9%EC%8B%9D%EC%9D%98-%EC%83%81%ED%83%9C)
    4. [상태변화](https://github.com/Onther-Tech/plasma-korea/blob/master/5_Multiparty_Off-Chain_State.md#%EC%83%81%ED%83%9C%EB%B3%80%ED%99%94)
    5. [루트 체인의 주기적인 이행](https://github.com/Onther-Tech/plasma-korea/blob/master/5_Multiparty_Off-Chain_State.md#%EB%A3%A8%ED%8A%B8-%EC%B2%B4%EC%9D%B8%EC%97%90-%EC%A3%BC%EA%B8%B0%EC%A0%81%EC%9D%B8-%EC%9D%B4%ED%96%89)
