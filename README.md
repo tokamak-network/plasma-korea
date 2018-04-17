@@ -18,6 +18,8 @@
 * child blockchian (child chain) : 자식 블록체인
 상위 블록체인에 상태를 기록하는 하위 블록체인을 의미한다.
 
+* smart contract : 스마트 계약
+
 * fidelity bonds : 종업원의 부정직한 행동으로 인해 발생된 손실을 고용주에게 보상하는 보험상품의 일종으로 화이트 페이퍼에서는 차일드 체인에서 일어난 위조 행위들에 대한 보장을 의미한다. 
 
 * Proof-of-Stake : 지분 증명
