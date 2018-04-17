@@ -7,7 +7,23 @@
 온더(Onther Inc.)에서 번역한 플라즈마 백서입니다.
 아직 초안이며, 수정 및 보완검토가 필요합니다. [이슈](https://github.com/Onther-Tech/plasma-korea/issues)와 [pull request](https://github.com/Onther-Tech/plasma-korea/pulls)를 통해 더 나은 번역이 될 수 있도록 많은 참여 부탁드립니다.
 
-원본링크: https://plasma.io/plasma.pdf
+원본 링크 : https://plasma.io/plasma.pdf
+번역본 링크 : [plasma-korean.pdf](plasma-korean.pdf)
+
+# PDF 빌드
+
+[markdown-pdf](https://github.com/alanshaw/markdown-pdf)를 사용하여 md파일을 pdf파일로 빌드할 수 있습니다.  
+
+require : `node` 및 `npm` 
+
+```
+npm install markdown-pdf
+node build-pdf.js
+```
+
+
+
+
 
 # 용어통일
 
@@ -19,11 +35,7 @@
 상위 블록체인에 상태를 기록하는 하위 블록체인을 의미한다.
 
 * fidelity bonds : 종업원의 부정직한 행동으로 인해 발생된 손실을 고용주에게 보상하는 보험상품의 일종으로 백서에서는 차일드 체인에서 일어난 위조 행위들에 대한 보장을 의미한다. 
-
 * smart contract : 스마트 계약
-
-
-
 * Proof-of-Stake : 지분 증명
 * fraud proof : 사기 증명 / 위조 증명
 * chain tip : 체인의 끝/마지막
