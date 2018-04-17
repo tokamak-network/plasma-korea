@@ -7,7 +7,22 @@
 온더(Onther Inc.)에서 번역한 플라즈마 백서입니다.
 아직 초안이며, 수정 및 보완검토가 필요합니다. 이슈와 pull request를 통해 더 나은 번역이 될 수 있도록 많은 참여 부탁드립니다.
 
-원본링크 : https://plasma.io/plasma.pdf
+원본 링크 : https://plasma.io/plasma.pdf
+
+번역본 링크 : [plasma-korean.pdf](plasma-korean.pdf)
+
+# PDF 빌드
+
+[markdown-pdf](https://github.com/alanshaw/markdown-pdf) 를 사용하여 markdown 을 pdf 로 빌드
+
+`node` 및 `npm` 가 설치된 환경에서 아래 명령을 통해 pdf 파일 빌드 가능
+
+```
+npm install markdown-pdf
+node build-pdf.js
+```
+
+
 
 # 용어통일
 
