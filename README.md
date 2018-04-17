@@ -13,12 +13,16 @@
 
 * root blockchain (root chain) / parent blockchain (parent chain)
 : 루트 블록체인 / 부모 블록체인 / 상위 블록체인
-하위 체인의 상태를 기록하는 상위 블록체인을 의미하며 플라즈마의 화이트 페이퍼에서는 대부분 이더리움을 지칭한다.
+하위 체인의 상태를 기록하는 상위 블록체인을 의미하며 플라즈마 백서에서는 대부분 이더리움을 지칭한다.
 
 * child blockchian (child chain) : 자식 블록체인
 상위 블록체인에 상태를 기록하는 하위 블록체인을 의미한다.
 
 * fidelity bonds : 종업원의 부정직한 행동으로 인해 발생된 손실을 고용주에게 보상하는 보험상품의 일종으로 백서에서는 차일드 체인에서 일어난 위조 행위들에 대한 보장을 의미한다. 
+
+* smart contract : 스마트 계약
+
+
 
 * Proof-of-Stake : 지분 증명
 * fraud proof : 사기 증명 / 위조 증명
