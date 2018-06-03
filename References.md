@@ -1,4 +1,4 @@
-# 참고문선
+# 참고문헌
 
 [1] Joseph Poon and Tadge Dryja. Lightning Network. https://lightning.network/
 lightning-network-paper.pdf, Mar 2015.
